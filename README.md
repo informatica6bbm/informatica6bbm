@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá,Bem-vindo á pagina do Setor de T.I do 6º BBM - Chapecó.👋
 
 <!--
 **informatica6bbm/informatica6bbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
